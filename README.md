@@ -36,6 +36,6 @@ The app fetches real-time exchange rate data using **Dio** and **Retrofit** for 
     <td><img src="images/4.jpg" alt="Photo 4" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/5.jpg" alt="Photo 5" width="400"/></td>
+    <td><img src="images/5.jpg" alt="Photo 5" width="200"/></td>
   </tr>
 </table>
