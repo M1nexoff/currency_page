@@ -22,9 +22,19 @@ The app fetches real-time exchange rate data using **Dio** and **Retrofit** for 
 - **Recent Exchange Rates**: View exchange rates from the last few days.
 - **Day/Night Theme**: Switch between light and dark themes for a better user experience.
 - **Shared Preferences**: Save user settings (such as the selected theme) and preferences locally.
-- **State Management with Bloc**: Use **Bloc** for predictable state management.
 - **Dio and Retrofit**: Fetch real-time currency data from a reliable API using **Dio** and **Retrofit**.
 - **Freezed**: Immutable data handling to ensure reliable and consistent state management.
+
+### ⚙️ **Technologies Used**
+
+- **Flutter**: Built with Flutter, ensuring a smooth and responsive UI for both iOS and Android platforms.
+- **Dio**: A powerful HTTP client for making API calls and handling network requests.
+- **Retrofit**: A type-safe HTTP client for **Dio**, used to fetch currency exchange data.
+- **Bloc**: Manages state in a reactive and efficient manner, ensuring clean and maintainable code.
+- **Provider**: Used for dependency injection and managing app-wide state.
+- **Freezed**: Helps define immutable data classes to handle the app's state in a type-safe manner.
+- **SharedPreferences**: Stores user settings like theme preferences and other app configurations.
+- **Day/Night Theme**: Easily toggle between light and dark modes using Flutter’s theme management system.
 
 <table>
   <tr>
